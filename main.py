@@ -1,9 +1,0 @@
-"""
-Iconicompany Job-Candidate Matching System
-============================================
-"""
-
-from src.index import main
-
-if __name__ == "__main__":
-    main()
